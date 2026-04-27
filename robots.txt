@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.lifeofcurthess.com/sitemap.xml
+Sitemap: https://www.santafebusiness.ai/sitemap.xml
